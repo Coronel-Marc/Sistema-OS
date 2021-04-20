@@ -21,7 +21,7 @@ namespace OsSistemas
                         InserirOrdemServico();
                         break;
                     case "3":
-                        // AtualizarOrdemServico();
+                        AtualizarOrdemServico();
                         break;
                     case "4":
                         ExcluirOrdemServico();
