@@ -57,7 +57,7 @@ namespace OsSistemas.Classes
         {
             return this.TituloOS;
         }
-        public int retornaNumeroOS()
+        public int retornaId()
         {
             return this.Id;
         }
