@@ -1,0 +1,16 @@
+C:\workstation\C Sharp\Projects\OsSistemas\OsSistemas\bin\Debug\net5.0\OsSistemas.exe
+C:\workstation\C Sharp\Projects\OsSistemas\OsSistemas\bin\Debug\net5.0\OsSistemas.deps.json
+C:\workstation\C Sharp\Projects\OsSistemas\OsSistemas\bin\Debug\net5.0\OsSistemas.runtimeconfig.json
+C:\workstation\C Sharp\Projects\OsSistemas\OsSistemas\bin\Debug\net5.0\OsSistemas.runtimeconfig.dev.json
+C:\workstation\C Sharp\Projects\OsSistemas\OsSistemas\bin\Debug\net5.0\OsSistemas.dll
+C:\workstation\C Sharp\Projects\OsSistemas\OsSistemas\bin\Debug\net5.0\ref\OsSistemas.dll
+C:\workstation\C Sharp\Projects\OsSistemas\OsSistemas\bin\Debug\net5.0\OsSistemas.pdb
+C:\workstation\C Sharp\Projects\OsSistemas\OsSistemas\obj\Debug\net5.0\OsSistemas.csprojAssemblyReference.cache
+C:\workstation\C Sharp\Projects\OsSistemas\OsSistemas\obj\Debug\net5.0\OsSistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\workstation\C Sharp\Projects\OsSistemas\OsSistemas\obj\Debug\net5.0\OsSistemas.AssemblyInfoInputs.cache
+C:\workstation\C Sharp\Projects\OsSistemas\OsSistemas\obj\Debug\net5.0\OsSistemas.AssemblyInfo.cs
+C:\workstation\C Sharp\Projects\OsSistemas\OsSistemas\obj\Debug\net5.0\OsSistemas.csproj.CoreCompileInputs.cache
+C:\workstation\C Sharp\Projects\OsSistemas\OsSistemas\obj\Debug\net5.0\OsSistemas.dll
+C:\workstation\C Sharp\Projects\OsSistemas\OsSistemas\obj\Debug\net5.0\ref\OsSistemas.dll
+C:\workstation\C Sharp\Projects\OsSistemas\OsSistemas\obj\Debug\net5.0\OsSistemas.pdb
+C:\workstation\C Sharp\Projects\OsSistemas\OsSistemas\obj\Debug\net5.0\OsSistemas.genruntimeconfig.cache
