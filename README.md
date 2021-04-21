@@ -1,4 +1,20 @@
-# Sistema-OS
- Sistema de Ordem de Serviço
+# Sistema simples de OS
+<hr/>
  
- Criei um sistema de emissão de Ordem de Serviço com base nos curso que já fiz. Falta implementar alguns métodos e criar os loops no metodos pra impedir o usuario de digitar algo errado e quebrar a aplicação.
+## Decidi criar um projeto simples de emissão, atualização, visualização e exclusão de OS para console com base no conhecimento que obtive recentemente
+
+Cada OS contém um titulo, descrição, valor, endereço, nome do cliente, um campo para CPF ou CNPJ, data de emissão, forma de pagamento e nome do técnico. Para fins de armazenamento de dados não é possível excluir de fato uma OS do programa. Ao excluir uma OS ela vai para uma lista de notas que foram excluidas e só pode ser acessada atraves da visualização de todas as OS, que aparecem com um campo "excluido" logo abaixo da OS
+
+<hr />
+
+<details>
+    <summary><strong>Implementei os seguintes métodos no projeto</strong></summary>
+        <br />
+        <ol>
+            <li>Listar OS</li>
+            <li>Inserir OS</li>
+            <li>Atualizar OS</li>
+            <li>Excluir OS</li>
+            <li>Visualizar OS</li>
+        </ol>
+</details>
