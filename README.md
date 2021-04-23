@@ -11,10 +11,10 @@ Cada OS contém um titulo, descrição, valor, endereço, nome do cliente, um ca
     <summary><strong>Implementei os seguintes métodos no projeto</strong></summary>
         <br />
         <ol>
-            <li>Listar OS</li>
-            <li>Inserir OS</li>
-            <li>Atualizar OS</li>
-            <li>Excluir OS</li>
-            <li>Visualizar OS</li>
+            <ul>Listar OS</ul>
+            <ul>Inserir OS</ul>
+            <ul>Atualizar OS</ul>
+            <ul>Excluir OS</ul>
+            <ul>Visualizar OS</ul>
         </ol>
 </details>
